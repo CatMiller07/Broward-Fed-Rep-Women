@@ -1,0 +1,16 @@
+.container{
+	max-width: 992px;
+}
+#repub-women{
+	align:left;
+	width: 400px;
+    height: auto;
+}
+#club-name{
+	display:inline;
+	position:relative;
+	bottom: 100px;
+}
+nav{
+	background-color: red;
+}
