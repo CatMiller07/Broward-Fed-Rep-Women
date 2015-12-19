@@ -9,8 +9,32 @@
 #club-name{
 	display:inline;
 	position:relative;
-	bottom: 100px;
+	bottom: 10px;
 }
-nav{
-	background-color: red;
+#contact-link{
+	display:inline;
+	position:relative;
+	float:right;
+	margin-right: 50px;
+	bottom: 180px;
+	color:red;
+	font-weight: bold;
+}
+#pict01{
+	position:relative;
+	top: 34px;
+	border: 3px ;
+	border-radius: 75px;
+	margin-left: 75px;
+}
+#club-verbiage{
+	font-family: 'Merriweather', serif;
+	font-weight: 550;
+	line-height: 150%;
+	margin-right: 25px;
+}
+.club-statement{
+	border: 3px solid black;
+	border-style:groove;
+	background-color: antiquewhite;
 }
